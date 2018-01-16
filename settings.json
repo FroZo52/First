@@ -1,0 +1,29 @@
+{
+	"telegram": {
+		"auth": {
+			"token": "541744527:AAFHTgvWjCE5N5Bl5-lLz1sBTpsas0dg4Zc"
+		},
+		"useFirstNameInsteadOfUsername": false,
+		"commaAfterSenderName": false,
+		"colonAfterSenderName": false,
+		"skipOldMessages": true,
+		"sendEmojiWithStickers": true
+	},
+	"discord": {
+		"auth": {
+			"token": "NDAyOTU4NTcyMjUxNTEyODMy.DUAVQg.jPrBEviXvx_NC-r55ax1fteFWDs"
+		},
+		"skipOldMessages": true
+	},
+	"bridgeMap": [
+		{
+			"name": "Default bridge",
+			"telegram": -277679541,
+			"discord": {
+				"guild": "402959751429750784",
+				"channel": "402959751849443348"
+			}
+		}
+	],
+	"debug": false
+}
